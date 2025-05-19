@@ -1,0 +1,10 @@
+anthropic
+numpy
+pretty_errors
+scipy
+langchain-anthropic
+langchain-core
+matplotlib
+agno
+colors_on_console
+re
