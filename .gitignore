@@ -52,4 +52,4 @@ coverage.xml
 .mypy_cache/
 
 # Images
-images/
+# images/
